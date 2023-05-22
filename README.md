@@ -56,3 +56,8 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 - Answer all 6 questions in the results section 
 - Summarize the overall results of your model 
 - Describe how you could use a different model to solve the same problem, and explain why you would use that model 
+
+## To run the code, please follow these steps:
+
+- Clone the repository.
+- Open the Jupyter Notebook "Starter_Code.ipynb" and run the file.
