@@ -30,6 +30,17 @@ We made three official attempts using machine learning and neural networks.
 They all resulted in the same accuracy rate – right around 72%, so a little short of
 the required target accuracy.
 
+## Summary
+
+In the three attempts, the model was unable to achieve a target
+predictive accuracy higher than 72.8%. 
+
+Hypertuning resulted in virtually no improvement. 
+
+We would consider using another classification model to see if it is
+better at predicting whether applicants will be successful if funded by Alphabet
+Soup.
+
 ## To run the code, please follow these steps:
 
 - Clone the repository.
