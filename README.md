@@ -36,7 +36,7 @@ Model 2:
 
 ![image](https://github.com/VirmarSosa/deep-learning-challenge/assets/118692087/d44952ba-94f4-4455-97eb-88d0a9434931)
 
-Moidel 3:
+Model 3:
 
 ![image](https://github.com/VirmarSosa/deep-learning-challenge/assets/118692087/b004314f-b8e0-45c8-b048-e4492e9f9ba6)
 
