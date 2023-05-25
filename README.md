@@ -26,7 +26,21 @@ The model was required to achieve a target predictive accuracy higher than
 75%. 
 
 We made three official attempts using machine learning and neural networks.
-![accuracy_model_1](https://github.com/VirmarSosa/deep-learning-challenge/assets/118692087/8f6a1189-5dbf-40ea-83ac-317847c4b00f) ![loss_model_1](https://github.com/VirmarSosa/deep-learning-challenge/assets/118692087/12804086-3842-49c1-b217-c3ebac337738)
+
+Model 1:
+
+![image](https://github.com/VirmarSosa/deep-learning-challenge/assets/118692087/e01c988c-52b3-4dbf-a641-7d4209bffe6f)
+
+
+Model 2:
+
+![image](https://github.com/VirmarSosa/deep-learning-challenge/assets/118692087/d44952ba-94f4-4455-97eb-88d0a9434931)
+
+Moidel 3:
+
+![image](https://github.com/VirmarSosa/deep-learning-challenge/assets/118692087/b004314f-b8e0-45c8-b048-e4492e9f9ba6)
+
+
 
 
 They all resulted in the same accuracy rate – right around 72%, so a little short of
